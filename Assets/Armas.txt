@@ -1,0 +1,41 @@
+-------------- Armas de Guerrero -------------
+    1 - Espada 
+            Nivel 1 - Espada de casera (Daño minimo)
+            Nivel 2 - Espada de madera (Poco daño)
+            Nivel 3 - Espada de hierro  (Daño moderado)
+            Nivel 3 - Espada de hierro Refinado (Daño) (Solo se obtiene con ayuda de herrero)
+    2 - Escudo
+            Nivel 1 - Escudo demadera pequeño (Poca proteccion - durabilidad minima)
+            Nivel 2 - Escudo de madera Refinada Grande (Media-baja proteccion - durabilidad  minima)
+            Nivel 2 - Escudo de hierro y Madera Pequeño (Media Proteccion - durabilidad alta) (Solo se obtiene con ayuda de herrero)
+            Nivel 3 - Escudo completo de hierro (Alta proteccion - Durabilidad maxima ) (Solo se obtiene con ayuda de herrero)
+    
+    Futuras Armas 
+
+    3 - Arco 
+    4 - Daga
+    5 - Hacha - (No puede usar escudo - Daño Alto)
+    6 - Mazo
+    
+----------------- Mago ---------------------------
+1 - Varita de Destruccion
+    Nivel 1 - Fuego (40%)(15%)
+    Nivel 1 - Hielo
+    Nivel 1 - Rayos
+
+2 Bastones de Destruccion  
+    Nivel 2 - Bola de Fuego
+    Nivel 2 - Estaca de Hielo
+    Nivel 2 - Relampago
+
+3 - Libros 
+    Restauracion -> Curacion propia 
+    Mano Amiga -> Curacion a otro jugador 
+    Luz -> Emite luz que lo deja ver en la oscuridad
+    Espada fastama -> (daño minimo - 10 minutos)
+
+
+
+
+
+
